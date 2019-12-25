@@ -1,2 +1,0 @@
-# stretchswipe
-Created with CodeSandbox
